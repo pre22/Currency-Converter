@@ -1,0 +1,13 @@
+C:\Users\EMMA\Desktop\C# Project\Converter\bin\Debug\netcoreapp3.1\Converter.exe
+C:\Users\EMMA\Desktop\C# Project\Converter\bin\Debug\netcoreapp3.1\Converter.deps.json
+C:\Users\EMMA\Desktop\C# Project\Converter\bin\Debug\netcoreapp3.1\Converter.runtimeconfig.json
+C:\Users\EMMA\Desktop\C# Project\Converter\bin\Debug\netcoreapp3.1\Converter.runtimeconfig.dev.json
+C:\Users\EMMA\Desktop\C# Project\Converter\bin\Debug\netcoreapp3.1\Converter.dll
+C:\Users\EMMA\Desktop\C# Project\Converter\bin\Debug\netcoreapp3.1\Converter.pdb
+C:\Users\EMMA\Desktop\C# Project\Converter\obj\Debug\netcoreapp3.1\Converter.csprojAssemblyReference.cache
+C:\Users\EMMA\Desktop\C# Project\Converter\obj\Debug\netcoreapp3.1\Converter.AssemblyInfoInputs.cache
+C:\Users\EMMA\Desktop\C# Project\Converter\obj\Debug\netcoreapp3.1\Converter.AssemblyInfo.cs
+C:\Users\EMMA\Desktop\C# Project\Converter\obj\Debug\netcoreapp3.1\Converter.csproj.CoreCompileInputs.cache
+C:\Users\EMMA\Desktop\C# Project\Converter\obj\Debug\netcoreapp3.1\Converter.dll
+C:\Users\EMMA\Desktop\C# Project\Converter\obj\Debug\netcoreapp3.1\Converter.pdb
+C:\Users\EMMA\Desktop\C# Project\Converter\obj\Debug\netcoreapp3.1\Converter.genruntimeconfig.cache
